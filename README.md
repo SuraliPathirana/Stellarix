@@ -19,11 +19,9 @@ The shooting game has 3 seperate levels has easy,medium and difficut and the use
 
 ## Level 1
 
-<img src="https://user-images.githubusercontent.com/78686787/230573256-29059a96-80f8-44c7-9b9f-1d6f317137ba.png" width=70% height=65%>
-
 <img src="https://user-images.githubusercontent.com/78686787/230573301-85f705c5-adf1-44b1-93be-b114bbd9cc35.png" width=70% height=65%>
 
-<img src="https://user-images.githubusercontent.com/78686787/230573362-b9f8b59f-1aa5-4169-8ec1-8dde0fc302e4.png" width=70% height=65%>
+<img src="https://user-images.githubusercontent.com/78686787/230582563-ccc425c7-6fd8-413a-b042-8d63c794145d.png" width=70% height=65%>
 
 ## Level 2
 
