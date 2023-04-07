@@ -37,11 +37,11 @@ The shooting game has 3 seperate levels has easy,medium and difficut and the use
 
 <img src="https://user-images.githubusercontent.com/78686787/230584603-113b3b4b-d7de-4a45-8557-6062776a63f2.png" width=70% height=65%>
 
-## Victory 
+## Victory Screen
 
 <img src="https://user-images.githubusercontent.com/78686787/230588117-45908665-0b7e-42dd-a72c-0241081b26de.png" width=70% height=65%>
 
-## Defeat 
+## Defeat Screen
 
 <img src="https://user-images.githubusercontent.com/78686787/230584920-42f0bb0d-a027-480c-bd34-e0eac323226c.png" width=70% height=65%>
 
