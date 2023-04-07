@@ -3,7 +3,7 @@ This is a simple console based shooting game, developed by using the basic conce
 The shooting game has 3 seperate levels has easy,medium and difficut and the user can select which level to play at the beginning.Also the main game menu consists of play, instructions, about and exit options.
 
 Opening screen
-![opening_screen]<src="https://user-images.githubusercontent.com/78686787/230572518-530310f2-595d-41f7-8b5c-090219af952f.png" width=50% height=50%> 
+<src="https://user-images.githubusercontent.com/78686787/230572518-530310f2-595d-41f7-8b5c-090219af952f.png" width=50% height=50%> 
 
 ![opening_screen (3)](https://user-images.githubusercontent.com/78686787/230572722-3acbb2fe-47af-4d03-893f-9ae0aa91a241.png)
 
