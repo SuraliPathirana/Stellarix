@@ -2,6 +2,8 @@
 This is a simple console based shooting game, developed by using the basic concepts in C++ .This application also uses a set of ASCII art, which have been included in the repository as seperate text files.
 The shooting game has 3 seperate levels has easy,medium and difficut and the user can select which level to play at the beginning.Also the main game menu consists of play, instructions, about and exit options. A player gets 3 lives in level 1 and level 2 and 4 lives in level 3.
 
+This project was developed as a course work for 1st year (CO1302 module), with the help and contribution of [daredevil25](https://github.com/daredevil25). 
+
 ## Opening screen
 <img src="https://user-images.githubusercontent.com/78686787/230581500-f399a813-335e-408f-b411-0489481552d4.png" width=70% height=65%> 
 
